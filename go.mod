@@ -1,3 +1,3 @@
-module 100XPrecourseAssignment1
+module joker
 
 go 1.20
