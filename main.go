@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("HELLO WORLD ! +8")
 	var conferenceName = "Go Conference"
 	var conferenceTickets = 50
 	var remainingTickets = 50
